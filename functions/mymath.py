@@ -1,8 +1,3 @@
-'''
-Created on Oct 19, 2017
-'''
-
-
 def sum(x,y):
     return x+y
 
