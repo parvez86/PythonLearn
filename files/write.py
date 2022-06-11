@@ -6,4 +6,4 @@ while s != '#':
     s = input()
     f.write(s+"\n")
 
-f.close
+f.close()
